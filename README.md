@@ -6,7 +6,7 @@ DOWNLOAD INSTRUCTIONS
 Make backups Of Your Game Files In case of Something Going wrong!
 
 1. Download FLIPS From SMWCentral.com
-2. Download WYSA From "Releaces"
+2. Download WYSA From "Releases"
 3. Click Apply Patch In FLIPS And Click WYSA
 4. Nagigate To Where Will You Snail Is Located On Your Computer
 5. Click Data.win And Select it Twice
